@@ -2,7 +2,6 @@
   <img align = 'left' height = '150' src = 'https://user-images.githubusercontent.com/102906132/163326777-aaeaf0c6-bab3-4fe9-af53-13b8e4dba311.png'>
   <img align = 'right' height = '150' width = '150' src = 'https://user-images.githubusercontent.com/102906132/163293171-f7d17ed6-10bb-458c-bf8d-b3c3cac729f7.gif'>
 </div> 
-明哲
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 <div align = 'center'>
