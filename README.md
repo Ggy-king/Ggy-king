@@ -1,11 +1,11 @@
-<div align = 'center'>
+<div align = 'left'>
 💖 My name is G                                                                                                                                                           
 💗 SAN - 2998483320                                                                                                                                                       
 💙 哪有人会喜欢孤独，不过是不喜欢失望罢了。  --村上春树                                                                                                                     
 💚 记得你的温柔多富有，我不愿改变这境遇当王侯。  --莎士比亚                                                                                                                 
 💛 这个世界太假，我们唯一能做的就是减少情绪。--《请回答1918》                                                                                                               
 </div>
-<div align = 'center'><img alt = 'Coding' width = '100%' height = '600' src = 'https://user-images.githubusercontent.com/102906132/163227643-6b63bf7a-f02c-4d03-86f1-ca524596b4d2.gif'>
+<div align = 'right'><img alt = 'Coding' width = '400' height = '400' src = 'https://user-images.githubusercontent.com/102906132/163227643-6b63bf7a-f02c-4d03-86f1-ca524596b4d2.gif'>
 </div>    
 <div><img align = 'right' width = '160' src = 'https://user-images.githubusercontent.com/102906132/163293171-f7d17ed6-10bb-458c-bf8d-b3c3cac729f7.gif'></div>
 
