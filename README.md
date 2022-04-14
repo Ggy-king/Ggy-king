@@ -1,6 +1,6 @@
 <div>
-<img align = 'left' height = '150' src = 'https://user-images.githubusercontent.com/102906132/163326777-aaeaf0c6-bab3-4fe9-af53-13b8e4dba311.png'>
-<img align = 'right' height = '150' width = '300' src = 'https://user-images.githubusercontent.com/102906132/163293171-f7d17ed6-10bb-458c-bf8d-b3c3cac729f7.gif'>
+<img align = 'left' height = '160' src = 'https://user-images.githubusercontent.com/102906132/163326777-aaeaf0c6-bab3-4fe9-af53-13b8e4dba311.png'>
+<img align = 'right' height = '160' width = '250' src = 'https://user-images.githubusercontent.com/102906132/163293171-f7d17ed6-10bb-458c-bf8d-b3c3cac729f7.gif'>
 </div> 
 
 <div align = 'left'><img alt = 'Coding' width = '300' height = '300' src = 'https://user-images.githubusercontent.com/102906132/163227643-6b63bf7a-f02c-4d03-86f1-ca524596b4d2.gif'>
