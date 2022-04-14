@@ -3,14 +3,6 @@
 ⚡ 哪有人会喜欢孤独，不过是不喜欢失望罢了。  --村上春树                                                                                                                   
 ⚡ 记得你的温柔多富有，我不愿改变这境遇当王侯。  --莎士比亚                                                                                                               
 ⚡这个世界太假，我们唯一能做的就是减少情绪。--《请回答1918》
-<style>
-   .aa img{ position: absolute;
-            top: 0px;
-            left: 0px;
-            width:200px;
-            height:200px;}
- </style>
- 
  
 <div class = 'aa'><img src = 'https://user-images.githubusercontent.com/102906132/163227643-6b63bf7a-f02c-4d03-86f1-ca524596b4d2.gif'></div>
  
