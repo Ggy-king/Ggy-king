@@ -6,6 +6,7 @@
     ✏️🌳  <i>School -- HPU</i><br>
     🉑🍉  <i>QQ -- 2998483320</i><br>
     🍻🚢  <i><b>Email -- A18581897806@outlook.com</b></i><br>
+    🌗💐  <i>Motto -- Those who like to create opportunities are a miracle in themselves</i></br>
   </div>
 </div> 
 <hr>
