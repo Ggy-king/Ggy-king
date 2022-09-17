@@ -1,6 +1,10 @@
 <div>
+  My Name Is Gao
+  Occupation -- Full Stack Developer
+  Love -- Vue/React/Js/Ts/H5C3/Python/Weixin/Nodejs
+  School -- HPU
   QQ -- 2998483320<br>
-  email -- A18581897806@outlook.com<br>
+  Email -- A18581897806@outlook.com<br>
   <img align = 'right' height = '150' width = '150' src = 'https://user-images.githubusercontent.com/102906132/163293171-f7d17ed6-10bb-458c-bf8d-b3c3cac729f7.gif'>
 </div> 
 <hr>
