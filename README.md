@@ -1,10 +1,12 @@
 <div>
-  My Name Is Gao<br>
-  Occupation -- Full Stack Developer<br>
-  Love -- Vue/React/Js/Ts/H5C3/mongodb/Python/Weixin/Nodejs/flutter<br>
-  School -- HPU<br>
-  QQ -- 2998483320<br>
-  Email -- A18581897806@outlook.com<br>
+  <div align = 'left' height = '150'>
+    My Name Is Gao<br>
+    Occupation -- Full Stack Developer<br>
+    Love -- Vue/React/Js/Ts/H5C3/mongodb/Python/Weixin/Nodejs/flutter<br>
+    School -- HPU<br>
+    QQ -- 2998483320<br>
+    Email -- A18581897806@outlook.com<br>
+  </div>
   <img align = 'right' height = '150' width = '150' src = 'https://user-images.githubusercontent.com/102906132/163293171-f7d17ed6-10bb-458c-bf8d-b3c3cac729f7.gif'>
 </div> 
 <hr>
