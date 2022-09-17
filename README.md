@@ -1,7 +1,7 @@
 <div>
   My Name Is Gao<br>
   Occupation -- Full Stack Developer<br>
-  Love -- Vue/React/Js/Ts/H5C3/Python/Weixin/Nodejs<br>
+  Love -- Vue/React/Js/Ts/H5C3/mongodb/Python/Weixin/Nodejs/flutter<br>
   School -- HPU<br>
   QQ -- 2998483320<br>
   Email -- A18581897806@outlook.com<br>
