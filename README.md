@@ -20,6 +20,9 @@
  
 <strong>物语</strong><br>
 <hr>
-<div align="center"> <img src="https://github-profile-trophy.vercel.app/?username=sun0225SUN" /> </div>
+<div align="center"> 
+  <div align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ggy-king&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" /> </div>
+  <img src="https://github-profile-trophy.vercel.app/?username=sun0225SUN" /> 
+</div>
  
 <div><img src = 'https://metrics.lecoq.io/Ggy-king?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&languages=1&stars=1&achievements=1&activity=1&notable=1&lines=1&languages.limit=8&languages.threshold=0%25&languages.colors=github&languages.aliases=js%2Cpython%2Cc%2Cc%2B%2B%2Ccss%2Chtml&languages.sections=most-used&languages.indepth=false&languages.analysis.timeout=18&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&stars.limit=4&activity.limit=5&activity.load=300&activity.days=14&activity.visibility=all&activity.timestamps=false&activity.filter=all&achievements.threshold=C&achievements.secrets=true&achievements.display=detailed&achievements.limit=0&notable.from=organization&notable.repositories=false&notable.indepth=false&notable.types=commit&config.timezone=Asia%2FShanghai&config.twemoji=true&config.display=large'></div>
