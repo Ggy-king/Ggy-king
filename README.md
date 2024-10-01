@@ -34,20 +34,8 @@
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=transparent" alt="Random Dev Quote" />
 </p>
-<h3 align="center">Connect with Me</h3>
-<p align="center">
-  <a href="mailto:samarjit9203@gmail.com" target="_blank">
-    <img align="center" src="assets/gmail.png" alt="mail" height="50" width="55" />
-  </a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://samarjit.me" target="_blank">
-    <img align="center" src="assets/web.png" alt="website" height="50" width="50" />
-  </a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://linkedin.com/in/samarjitsahoo/" target="_blank">
-    <img align="center" src="assets/linkedin.png" alt="linkedin" height="60" width="60" />
-  </a>
-</p>
+
+
 <p align="right"><a href="#top"><img src="https://img.shields.io/static/v1?label&message=Go+to+Top&color=0b6ab3&style=flat&logo" alt="Go to Top" /></a></p>
   
 ![115834477-dbab4500-a447-11eb-908a-139a6edaec5c](https://github.com/LahiruHarshana/LahiruHarshana/assets/124744833/d5f490aa-d12a-45eb-935a-535c05da9261)
