@@ -27,10 +27,13 @@
 <div align="center">
   
   <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Ggy-King&theme=2077" height="180em" alt="Most Commits Languages"/>
-  <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Ggy-King&theme=2077" height="180em" alt="Most Repo Languages"/><br/>
-  <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ggy-King&theme=2077" height="180em" alt="Commitments"/>
-  
+  <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Ggy-King&theme=2077" height="180em" alt="Most Repo Languages"/>
 </div>
+<br/>
+<div align="center">
+  <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ggy-King&theme=2077" height="180em" alt="Commitments"/>
+</div>
+
 <br/>
 
 ![115834477-dbab4500-a447-11eb-908a-139a6edaec5c](https://github.com/LahiruHarshana/LahiruHarshana/assets/124744833/d5f490aa-d12a-45eb-935a-535c05da9261)
@@ -49,4 +52,5 @@
   
 ```
 If You liked My Profile, You Can Star ⭐ the Repository): If You Want To Use This Template, You Can Fork This and Use It.
+<p/>
 <p align="right"><a href="#top"><img src="https://img.shields.io/static/v1?label&message=Go+to+Top&color=0b6ab3&style=flat&logo" alt="Go to Top" /></a></p>
