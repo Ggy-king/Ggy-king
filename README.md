@@ -184,7 +184,7 @@
   </tr>
 </table>
 <br>
-## Other
+<strong>Other</strong>
 
 
 
