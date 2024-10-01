@@ -31,25 +31,25 @@
         <a href="#html5">
             <img src="https://skillicons.dev/icons?i=vue" width="48" height="48" alt="React" />
         </a>
+        <br>Vue
+    </td>
+      <td align="center" width="96">
+        <a href="#html5">
+            <img src="https://skillicons.dev/icons?i=react" width="48" height="48" alt="Redux" />
+        </a>
         <br>React
     </td>
       <td align="center" width="96">
         <a href="#html5">
-            <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/redux/redux.png" width="48" height="48" alt="Redux" />
+            <img src="https://skillicons.dev/icons?i=mongodb" width="48" height="48" alt="Angular" />
         </a>
-        <br>Redux
-    </td>
-      <td align="center" width="96">
-        <a href="#html5">
-            <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png" width="48" height="48" alt="Angular" />
-        </a>
-        <br>Angular
+        <br>Mongodb
     </td>
       <td align="center" width="96">
         <a href="#Django">
-            <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/django/django.png" width="48" height="48" alt="Django" />
+            <img src="https://skillicons.dev/icons?i=node" width="48" height="48" alt="Django" />
         </a>
-        <br>Django
+        <br>NodeJS
     </td>
       <td align="center" width="96">
         <a href="#Firebase">
