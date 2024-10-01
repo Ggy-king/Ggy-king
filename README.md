@@ -23,11 +23,11 @@
 <div align="center"> 
   <img src="https://github-profile-trophy.vercel.app/?username=JimmyLv" /> 
 </div>
-
+<br/>
 <div align="center">
   
   <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Ggy-King&theme=2077" height="180em" alt="Most Commits Languages"/>
-  <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Ggy-King&theme=2077" height="180em" alt="Most Repo Languages"/>
+  <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Ggy-King&theme=2077" height="180em" alt="Most Repo Languages"/><br/>
   <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ggy-King&theme=2077" height="180em" alt="Commitments"/>
   
 </div>
