@@ -29,17 +29,15 @@
   <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Ggy-King&theme=2077" height="180em" alt="Most Commits Languages"/>
   <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Ggy-King&theme=2077" height="180em" alt="Most Repo Languages"/>
   <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ggy-King&theme=2077" height="180em" alt="Commitments"/>
-</div>
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=transparent" alt="Random Dev Quote" />
-</p>
-
   
+</div>
+<br/>
+
 ![115834477-dbab4500-a447-11eb-908a-139a6edaec5c](https://github.com/LahiruHarshana/LahiruHarshana/assets/124744833/d5f490aa-d12a-45eb-935a-535c05da9261)
 
 ![git](https://user-images.githubusercontent.com/79472177/205426120-3426ca36-711a-4ad6-a064-5bcf708c84cf.jpg)
 
-<br />
+<br/>
 
 <p align="center"> 
   Visitors Count<br>
