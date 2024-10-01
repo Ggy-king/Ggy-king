@@ -35,16 +35,12 @@
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=transparent" alt="Random Dev Quote" />
 </p>
 
-
-<p align="right"><a href="#top"><img src="https://img.shields.io/static/v1?label&message=Go+to+Top&color=0b6ab3&style=flat&logo" alt="Go to Top" /></a></p>
   
 ![115834477-dbab4500-a447-11eb-908a-139a6edaec5c](https://github.com/LahiruHarshana/LahiruHarshana/assets/124744833/d5f490aa-d12a-45eb-935a-535c05da9261)
 
 ![git](https://user-images.githubusercontent.com/79472177/205426120-3426ca36-711a-4ad6-a064-5bcf708c84cf.jpg)
 
-
 <br />
-
 
 <p align="center"> 
   Visitors Count<br>
@@ -52,10 +48,8 @@
   <img src="https://profile-counter.glitch.me/ThiroshMadhusha/count.svg" />
 </p>
 
-
 <p align="center"> 
-
   
 ```
-
 If You liked My Profile, You Can Star ⭐ the Repository): If You Want To Use This Template, You Can Fork This and Use It.
+<p align="right"><a href="#top"><img src="https://img.shields.io/static/v1?label&message=Go+to+Top&color=0b6ab3&style=flat&logo" alt="Go to Top" /></a></p>
