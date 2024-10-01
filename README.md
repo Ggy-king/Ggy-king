@@ -29,7 +29,7 @@
   <tr>
     <td align="center" width="96">
         <a href="#html5">
-            <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" width="48" height="48" alt="React" />
+            <img src="https://skillicons.dev/icons?i=vue" width="48" height="48" alt="React" />
         </a>
         <br>React
     </td>
