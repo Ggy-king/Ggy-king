@@ -42,11 +42,6 @@
 
 <br/>
 
-<p align="center"> 
-  Visitors Count<br>
-  
-  <img src="https://profile-counter.glitch.me/ThiroshMadhusha/count.svg" />
-</p>
 
 <p align="center"> 
   
