@@ -185,6 +185,7 @@
 </table>
 <br>
 <strong>Other</strong>
+<hr />
 
 
 
