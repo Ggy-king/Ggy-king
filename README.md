@@ -124,7 +124,7 @@
     </td>
      <td align="center" width="96">
       <a href="#Less">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1200px-Typescript_logo_2020.svg.png" width="48" height="48" alt="Less" />
+        <img src="https://skillicons.dev/icons?i=less" width="48" height="48" alt="Less" />
       </a>
       <br>Less
     </td>
