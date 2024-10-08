@@ -169,14 +169,14 @@
       <br>Pycharm
     </td>
      <td align="center" width="96">
-      <a href="#Git">
-        <img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" />
+      <a href="#Babel">
+        <img src="https://skillicons.dev/icons?i=babel" width="48" height="48" alt="Babel" />
       </a>
-      <br>Git
+      <br>Babel
     </td>
       <td align="center" width="96">
       <a href="#git" >
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/1200px-Git_icon.svg.png" width="48" height="48" alt="Git" />
+        <img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" />
       </a>
       <br>Git
     </td>
