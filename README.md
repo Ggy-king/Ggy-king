@@ -28,26 +28,26 @@
 <table align="center">
   <tr>
     <td align="center" width="96">
-        <a href="#html5">
-            <img src="https://skillicons.dev/icons?i=vue" width="48" height="48" alt="React" />
+        <a href="#Vue">
+            <img src="https://skillicons.dev/icons?i=vue" width="48" height="48" alt="Vue" />
         </a>
         <br>Vue
     </td>
       <td align="center" width="96">
-        <a href="#html5">
-            <img src="https://skillicons.dev/icons?i=react" width="48" height="48" alt="Redux" />
+        <a href="#React">
+            <img src="https://skillicons.dev/icons?i=react" width="48" height="48" alt="React" />
         </a>
         <br>React
     </td>
       <td align="center" width="96">
-        <a href="#html5">
-            <img src="https://skillicons.dev/icons?i=mongodb" width="48" height="48" alt="Angular" />
+        <a href="#Mongodb">
+            <img src="https://skillicons.dev/icons?i=mongodb" width="48" height="48" alt="Mongodb" />
         </a>
         <br>Mongodb
     </td>
       <td align="center" width="96">
-        <a href="#Django">
-            <img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" alt="Django" />
+        <a href="#NodeJS">
+            <img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" alt="NodeJS" />
         </a>
         <br>NodeJS
     </td>
@@ -58,8 +58,8 @@
         <br>Bootstrap
     </td>
       <td align="center" width="96">
-        <a href="#Node">
-            <img src="https://skillicons.dev/icons?i=vite" width="48" height="48" alt="Node" />
+        <a href="#Vite">
+            <img src="https://skillicons.dev/icons?i=vite" width="48" height="48" alt="Vite" />
         </a>
         <br>Vite
     </td>
@@ -78,26 +78,26 @@
       <br>CSS3
     </td>
      <td align="center" width="96">
-      <a href="#bootstrap">
-        <img src="https://skillicons.dev/icons?i=js" width="48" height="48" alt="Bootstrap" />
+      <a href="#Javascript">
+        <img src="https://skillicons.dev/icons?i=js" width="48" height="48" alt="Javascript" />
       </a>
       <br>Javascript
     </td>
      <td align="center" width="96">
-      <a href="#js">
-        <img src="https://skillicons.dev/icons?i=ts" width="48" height="48" alt="Javascript" />
+      <a href="#TypeScript">
+        <img src="https://skillicons.dev/icons?i=ts" width="48" height="48" alt="TypeScript" />
       </a>
       <br>TypeScript
     </td>
      <td align="center" width="96">
-      <a href="#vuejs">
-        <img src="https://skillicons.dev/icons?i=webpack" width="48" height="48" alt="Vuejs" />
+      <a href="#Webpack">
+        <img src="https://skillicons.dev/icons?i=webpack" width="48" height="48" alt="Webpack" />
       </a>
       <br>Webpack
     </td>
      <td align="center" width="96">
-      <a href="#nextjs">
-        <img src="https://skillicons.dev/icons?i=express" width="48" height="48" alt="Nextjs" />
+      <a href="#Express">
+        <img src="https://skillicons.dev/icons?i=express" width="48" height="48" alt="Express" />
       </a>
       <br>Express
     </td>      
@@ -105,20 +105,20 @@
   
   <tr>
      <td align="center" width="96">
-      <a href="#php" >
-        <img src="https://skillicons.dev/icons?i=npm" width="48" height="48" alt="PHP" />
+      <a href="#Npm" >
+        <img src="https://skillicons.dev/icons?i=npm" width="48" height="48" alt="Npm" />
       </a>
       <br>Npm
     </td>
       <td align="center" width="96">
-      <a href="#laravel">
-        <img src="https://skillicons.dev/icons?i=yarn" width="48" height="48" alt="Laravel" />
+      <a href="#Yarn">
+        <img src="https://skillicons.dev/icons?i=yarn" width="48" height="48" alt="Yarn" />
       </a>
       <br>Yarn
     </td>
       <td align="center" width="96">
-      <a href="#laravel">
-        <img src="https://skillicons.dev/icons?i=gherkin" width="48" height="48" alt="MySQL" />
+      <a href="#weixin">
+        <img src="https://skillicons.dev/icons?i=gherkin" width="48" height="48" alt="weixin小程序" />
       </a>
       <br>weixin小程序
     </td>
@@ -129,36 +129,36 @@
       <br>TypeScript
     </td>
      <td align="center" width="96">
-        <a href="#flutter">
-            <img src="https://skillicons.dev/icons?i=matlab" width="48" height="48"
-                alt="Flutter" />
+        <a href="#Sass">
+            <img src="https://skillicons.dev/icons?i=sass" width="48" height="48"
+                alt="Sass" />
         </a>
-        <br>Matlab
+        <br>Sass
     </td>
     <td align="center" width="96">
-        <a href="#reactnative">
+        <a href="#Python">
             <img src="https://skillicons.dev/icons?i=python" width="48"
-                height="48" alt="ReactNative" />
+                height="48" alt="Python" />
         </a>
         <br>Python
     </td>   
   </tr>
    <tr>
      <td align="center"  width="96">
-      <a href="#vscode">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" width="48" height="48" alt="Jamstack" />
+      <a href="#VSCode">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" width="48" height="48" alt="VS Code" />
       </a>
       <br>VS Code
     </td>
       <td align="center" width="96">
       <a href="#postman" >
-        <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="48" height="48" alt="Git" />
+        <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="48" height="48" alt="Postman" />
       </a>
       <br>Postman
      </td>
       <td align="center" width="96">
-      <a href="#python" >
-        <img src="https://skillicons.dev/icons?i=docker" width="48" height="48" alt="Python" />
+      <a href="#Docker" >
+        <img src="https://skillicons.dev/icons?i=docker" width="48" height="48" alt="Docker" />
       </a>
       <br>Docker
     </td>
@@ -169,8 +169,8 @@
       <br>Pycharm
     </td>
      <td align="center" width="96">
-      <a href="#digitalocean">
-        <img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Digital Ocean" />
+      <a href="#Git">
+        <img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" />
       </a>
       <br>Git
     </td>
