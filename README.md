@@ -2,7 +2,7 @@
   <div>
     😆❤️  <i><b>My Name Is Gao-Guang-Yuan</b></i><br>
     🌍💪  <i>Occupation -- Full Stack Developer</i><br>
-    ✈️🏆  <i><b>Love -- Vue/React/Js/Ts/H5C3/Nodejs/Express/mongodb/Weixin/webpack/pinia/vuex/npm/Apifox/git/husky/eslint/prettier/vite/Sass/Less/Docker/Cesium/Python/Flutter</b></i><br>
+    ✈️🏆  <i><b>Love -- Vue/React/Js/Ts/H5C3/Nodejs/Express/mongodb/Weixin/webpack/pinia/vuex/npm/Apifox/git/husky/eslint/<br>prettier/vite/Sass/Less/Docker/Cesium/Python/Flutter</b></i><br>
     ✏️🌳  <i>School -- HPU</i><br>
     🉑🍉  <i>QQ -- 2998483320</i><br>
     🍻🚢  <i><b>Email -- A18581897806@outlook.com</b></i><br>
