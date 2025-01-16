@@ -124,10 +124,10 @@
       <br>weixin小程序
     </td>
      <td align="center" width="96">
-      <a href="#Less">
-        <img src="https://skillicons.dev/icons?i=less" width="48" height="48" alt="Less" />
+      <a href="#Redux">
+        <img src="https://skillicons.dev/icons?i=redux" width="48" height="48" alt="Redux" />
       </a>
-      <br>Less
+      <br>Redux
     </td>
      <td align="center" width="96">
         <a href="#Sass">
