@@ -64,6 +64,13 @@
         </a>
         <br>Vite
     </td>
+     </td>
+      <td align="center" width="96">
+        <a href="#Pinia">
+            <img src="https://skillicons.dev/icons?i=pinia" width="48" height="48" alt="Pinia" />
+        </a>
+        <br>Pinia
+    </td>
   </tr>
   <tr>
       <td align="center" width="96">
@@ -102,6 +109,12 @@
       </a>
       <br>Express
     </td>      
+    <td align="center" width="96">
+      <a href="#Ai">
+        <img src="https://skillicons.dev/icons?i=ai" width="48" height="48" alt="Ai" />
+      </a>
+      <br>Ai
+    </td>      
   </tr>
   
   <tr>
@@ -136,6 +149,13 @@
         </a>
         <br>Sass
     </td>
+    <td align="center" width="96">
+        <a href="#Python">
+            <img src="https://skillicons.dev/icons?i=python" width="48"
+                height="48" alt="Python" />
+        </a>
+        <br>Python
+    </td>   
     <td align="center" width="96">
         <a href="#Python">
             <img src="https://skillicons.dev/icons?i=python" width="48"
@@ -180,6 +200,12 @@
         <img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" />
       </a>
       <br>Git
+    </td>
+    <td align="center" width="96">
+      <a href="#vercel" >
+        <img src="https://skillicons.dev/icons?i=vercel" width="48" height="48" alt="Vercel" />
+      </a>
+      <br>Vercel
     </td>
       
     
