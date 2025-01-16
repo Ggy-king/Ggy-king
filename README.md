@@ -150,11 +150,11 @@
         <br>Sass
     </td>
     <td align="center" width="96">
-        <a href="#Python">
-            <img src="https://skillicons.dev/icons?i=python" width="48"
-                height="48" alt="Python" />
+        <a href="#Less">
+            <img src="https://skillicons.dev/icons?i=less" width="48"
+                height="48" alt="Less" />
         </a>
-        <br>Python
+        <br>Less
     </td>   
     <td align="center" width="96">
         <a href="#Python">
