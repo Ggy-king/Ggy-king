@@ -2,11 +2,12 @@
   <div>
     😆❤️  <i><b>My Name Is Gao-Guang-Yuan</b></i><br>
     🌍💪  <i>Occupation -- Full Stack Developer</i><br>
-    ✈️🏆  <i><b>Love -- Vue/React/Js/Ts/H5C3/Nodejs/Express/mongodb/Weixin/webpack/pinia/vuex/npm/Apifox/git/husky/eslint/<br>
-                 &nbsp;&nbsp;&nbsp;&nbsp;prettier/crypto/vite/Sass/Less/Docker/Cesium/Python/Flutter</b></i><br>
+    ✈️🏆  <i><b>Love -- Vue/vite/pinia/Js/Ts/H5C3/Nodejs/Express/mongodb/React/Weixin/webpack/vuex/npm/Apifox/git/husky/eslint/<br>
+                 &nbsp;&nbsp;&nbsp;&nbsp;ubuntu/prettier/crypto/Sass/Less/apifox/postman/Cesium/Docker/Python/Flutter</b></i><br>
     ✏️🌳  <i>School -- HPU</i><br>
-    🉑🍉  <i>QQ -- 2998483320</i><br>
+    🉑🍉  <i>Phone -- 18581897806</i><br>
     🍻🚢  <i><b>Email -- A18581897806@outlook.com</b></i><br>
+    🏆🌍  <i><b>Blog -- https://ggyking.top</b></i><br>
     🌗💐  <i>Motto -- Those who like to create opportunities are a miracle in themselves</i></br>
   </div>
 </div> 
