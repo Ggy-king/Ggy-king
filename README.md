@@ -147,24 +147,44 @@ My flagship project — a **complete Chan Theory futures quantitative system** b
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub by the Numbers
 
 <div align="center">
-  <img height="165px" src="https://github-readme-stats.vercel.app/api?username=Ggy-king&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
-  <img height="165px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ggy-king&layout=compact&theme=tokyonight&hide_border=true&langs_count=10" />
+
+![Followers](https://img.shields.io/github/followers/Ggy-king?style=for-the-badge&logo=github&label=Followers&color=1f6feb)
+![Stars](https://img.shields.io/badge/Total_Stars-241-yellow?style=for-the-badge&logo=github)
+![Repos](https://img.shields.io/badge/Public_Repos-60-238636?style=for-the-badge&logo=github)
+![Following](https://img.shields.io/badge/Following-1451-8957e5?style=for-the-badge&logo=github)
+
 </div>
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Ggy-king&theme=tokyonight&no-frame=true&row=1&column=7" />
-</div>
+### Most Used Languages
+
+```text
+JavaScript  ████████░░░░░░░░░░░░░░  31.7%   (19 repos)
+HTML        ████░░░░░░░░░░░░░░░░░░  18.3%   (11 repos)
+Vue         ███░░░░░░░░░░░░░░░░░░░  11.7%   (7 repos)
+Python      ██░░░░░░░░░░░░░░░░░░░░   6.7%   (4 repos)
+MATLAB      █░░░░░░░░░░░░░░░░░░░░░   5.0%   (3 repos)
+CSS         █░░░░░░░░░░░░░░░░░░░░░   5.0%   (3 repos)
+Others      █████░░░░░░░░░░░░░░░░░  21.7%   (13 repos)
+```
 
 <div align="center">
   <img src="https://streak-stats.demolab.com/?user=Ggy-king&theme=tokyonight&hide_border=true" height="160px" />
 </div>
 
-<div align="center">
-  <img src="https://github-contributions-api.jogruber.de/v4/Ggy-king?theme=tokyonight" height="200px" />
-</div>
+---
+
+## 💡 Development Philosophy
+
+> **「Ship fast, iterate faster. The best way to learn is to build.」**
+
+- **Project-driven** — I learn by shipping real products, not by watching tutorials
+- **Full-stack mindset** — From database schema to pixel-perfect UI, I own the whole stack
+- **Trading discipline** — Years of futures trading taught me risk management, patience, and data-driven decision making — skills I bring to every engineering project
+- **AI-native thinking** — I design systems with LLM integration in mind from day one, not as an afterthought
+- **Cross-device obsession** — I believe your phone and computer should work as one, not two isolated devices
 
 ---
 
