@@ -1,18 +1,17 @@
 <div align="center">
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Hi%2C+I%27m+Gao+Guangyuan+%F0%9F%91%8B;Futures+Trader+%26+Full+Stack+Dev;Chan+Theory+%7C+AI+Agent+%7C+Quant&font=Fira+Code&center=true&width=560&height=60&size=24&color=58A6FF&vCenter=true&pause=1200">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Hi%2C+I%27m+Gao+Guangyuan+%F0%9F%91%8B;Futures+Trader+%C3%97+Full+Stack+Engineer;Chan+Theory+%7C+AI+Agent+%7C+Quant+Dev&font=Fira+Code&center=true&width=580&height=60&size=24&color=58A6FF&vCenter=true&pause=1200">
 </a>
 
 <p>
-  <i>「向阳而生」· Those who like to create opportunities are a miracle in themselves</i>
+  <i>「Turning market patterns into code, and ideas into products.」</i>
 </p>
 
 <p>
   <a href="https://ggyking.top"><img src="https://img.shields.io/badge/Blog-ggyking.top-1f6feb?style=flat-square&logo=firefox&logoColor=white"></a>
   <a href="mailto:A18581897806@outlook.com"><img src="https://img.shields.io/badge/Email-A18581897806%40outlook.com-red?style=flat-square&logo=gmail&logoColor=white"></a>
   <a href="https://github.com/Ggy-king"><img src="https://img.shields.io/badge/GitHub-Ggy--king-24292e?style=flat-square&logo=github&logoColor=white"></a>
-  <img src="https://img.shields.io/badge/Focus-Chan%20Theory%20%7C%20AI%20%7C%20Quant-8957e5?style=flat-square">
   <img src="https://komarev.com/ghpvc/?username=Ggy-king&color=blue&style=flat-square&label=Profile+Views">
 </p>
 
@@ -20,37 +19,33 @@
 
 ---
 
-## 🧑‍💻 About Me
+## 👤 About Me
 
-> 期货缠论交易员 × 全栈开发者 × AI Agent 探索者
+> **Futures Trader × Full Stack Engineer × AI Agent Builder**
 
-- 🎓 **HPU**（河南理工大学）
-- 📈 **期货交易多年**，深耕**缠论**技术分析，自研缠论量化系统
-- 💻 前端 **Vue / React / TypeScript**，后端 **Node.js / FastAPI / Python**
-- 🤖 正在构建 **AI Agent** 应用——LLM 工具调用、RAG 知识库、多轮对话
-- 🔗 痴迷**跨端互联**：电脑与手机 WebSocket 双向通信、设备联动、实时同步
-- 🌱 项目驱动型学习者，相信「做出来」比「学完了」更重要
+I'm a full-stack developer with years of hands-on experience in **futures trading** and deep expertise in **Chan Theory (缠论)** technical analysis. I build quantitative trading systems from scratch — from K-line merging and fractal recognition to real-time alerting and strategy backtesting. Recently I've been diving into **AI Agents** and **LLM applications**, exploring how language models can automate trading analysis and cross-device workflows.
+
+- 🎓 **HPU** — Henan Polytechnic University
+- 📈 **Futures Trader** — Chan Theory practitioner, self-built quant system
+- 💻 **Full Stack** — Vue / React / TypeScript / Node.js / FastAPI / Python
+- 🤖 **AI Agent** — LLM tool calling, RAG, multi-turn conversation systems
+- 🔗 **Cross-Device** — WebSocket-based PC ↔ mobile real-time synchronization
+- 🌱 **Project-driven learner** — I ship, therefore I learn
 
 ---
 
-## 📈 Quant & Trading — 缠论量化
+## ⚡ Core Competencies
 
-这是我最核心的项目方向。自研了一套完整的**缠论期货量化预警与回测系统**：
+<div align="center">
 
-| 模块 | 技术实现 |
-|------|---------|
-| **缠论核心算法** | K线包含合并 → 分型识别 → 笔生成，经 czsc 库全量差分验证，逐根一致 |
-| **实时行情** | 天勤 TqSdk 长连接，17 合约全覆盖，支持 30秒~日线任意周期 |
-| **预警推送** | FastAPI + WebSocket 双向通信，PC 总览/详情 + 手机端四页面联动 |
-| **回测引擎** | 独立回测模块，分型右侧确认价成交（无未来函数），资金曲线 + 买卖箭头 |
-| **风控系统** | 模拟 10 万账户，1% 风险手数计算，拖拽式止损计算器 |
-| **K线可视化** | lightweight-charts 专业金融图表，多级别切换，缠论笔线叠加 |
+| | |
+|:---:|:---|
+| 🖥️ **Full-Stack Development** | Building complete web applications from pixel-perfect UIs to scalable APIs. Vue / React ecosystem on the frontend, Node.js & FastAPI on the backend. |
+| 📊 **Quantitative Trading** | Designing and implementing Chan Theory-based trading algorithms — K-line consolidation, fractal identification, stroke (笔) generation, multi-timeframe analysis, and full backtesting engines. |
+| 🤖 **AI Agent Engineering** | Developing LLM-powered agents with Function Calling, RAG knowledge bases, and structured tool use. Connecting AI to real-time market data and trading workflows. |
+| 🔄 **Real-Time Systems** | WebSocket bidirectional communication, live market data streaming, multi-client synchronization, and PC-to-mobile cross-device connectivity. |
 
-相关仓库：
-- [`chan.py`](https://github.com/Ggy-king/chan.py) — 开放式缠论 Python 库
-- [`chan`](https://github.com/Ggy-king/chan) — 麦语言缠论自动画线
-- [`akshare`](https://github.com/Ggy-king/akshare) — AKShare 金融数据接口
-- [`fastapi`](https://github.com/Ggy-king/fastapi) — FastAPI 后端服务
+</div>
 
 ---
 
@@ -71,7 +66,9 @@
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
 ![Webpack](https://img.shields.io/badge/Webpack-8DD6F9?style=for-the-badge&logo=webpack&logoColor=black)
 ![Pinia](https://img.shields.io/badge/Pinia-FFD859?style=for-the-badge&logo=pinia&logoColor=black)
+![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 
 **Backend & Data**
 
@@ -80,61 +77,74 @@
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![WebSocket](https://img.shields.io/badge/WebSocket-010101?style=for-the-badge&logo=socket.io&logoColor=white)
 
-**AI & Quant**
+**AI / ML / Quant**
 
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/LLM-OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=matrix&logoColor=white)
+![AKShare](https://img.shields.io/badge/AKShare-Financial-009688?style=for-the-badge)
+![TqSdk](https://img.shields.io/badge/TqSdk-Futures-FF6B35?style=for-the-badge)
 
-**Tools & Others**
+**Tools & Platforms**
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Apifox](https://img.shields.io/badge/Apifox-1EB6AE?style=for-the-badge)
 ![WeChat](https://img.shields.io/badge/WeChat_Mini-07C160?style=for-the-badge&logo=wechat&logoColor=white)
 ![Cesium](https://img.shields.io/badge/Cesium-16365E?style=for-the-badge&logo=cesium&logoColor=white)
+![Blockchain](https://img.shields.io/badge/Blockchain-000000?style=for-the-badge&logo=blockchain.com&logoColor=white)
 
 </div>
 
 ---
 
-## 🌟 Featured Projects
+## 📈 Quant Trading System
+
+My flagship project — a **complete Chan Theory futures quantitative system** built from the ground up:
 
 <div align="center">
 
-[![chan.py](https://github-readme-stats.vercel.app/api/pin/?username=Ggy-king&repo=chan.py&theme=tokyonight&hide_border=true)](https://github.com/Ggy-king/chan.py)
-[![ChainVenturer-Foreend](https://github-readme-stats.vercel.app/api/pin/?username=Ggy-king&repo=ChainVenturer-Foreend&theme=tokyonight&hide_border=true)](https://github.com/Ggy-king/ChainVenturer-Foreend)
-
-[![Global-financial-news](https://github-readme-stats.vercel.app/api/pin/?username=Ggy-king&repo=Global-financial-news-background-management-system---React-development&theme=tokyonight&hide_border=true)](https://github.com/Ggy-king/Global-financial-news-background-management-system---React-development)
-[![Real-time-Translation](https://github-readme-stats.vercel.app/api/pin/?username=Ggy-king&repo=Real-time-Translation-Community-ACommunity-Article-Sharing-App&theme=tokyonight&hide_border=true)](https://github.com/Ggy-king/Real-time-Translation-Community-ACommunity-Article-Sharing-App)
+| Component | Details |
+|:---|:---|
+| **Chan Algorithm** | K-line inclusion merging → fractal identification → stroke (笔) generation. Verified bar-by-bar against the `czsc` library with 100% consistency. |
+| **Market Data** | TqSdk persistent connection, **17 futures contracts**, all timeframes from 30s to daily. |
+| **Real-Time Alerts** | FastAPI + WebSocket bidirectional sync across **4 pages** — PC overview / detail / backtest + mobile client. |
+| **Backtesting** | Standalone backtest engine. Fills at fractal confirmation bar close (no look-ahead bias). Equity curve + trade markers + per-trade breakdown. |
+| **Risk Management** | Simulated 100k account, **1% risk per trade** position sizing, drag-and-drop stop-loss calculator. |
+| **Charting** | `lightweight-charts` professional financial charts with multi-timeframe switching and Chan stroke overlay. |
 
 </div>
-
----
-
-## 🏆 Competitions & Achievements
-
-- 🥇 **2022 全国大学生数学建模竞赛** — 国赛参赛（MATLAB 建模）
-- 📊 **MathorCup 高校数学建模挑战赛** — 大数据赛道
-- 🧠 **BP 神经网络预测** — 自研预测模型项目
-- 📦 **64+ GitHub 仓库** — 涵盖前端、后端、量化、AI、区块链、移动端
 
 ---
 
 ## 🔥 Currently Exploring
 
-| 方向 | 具体内容 |
-|------|---------|
-| 🤖 **AI Agent** | 基于 LLM 的多轮对话 Agent、Function Calling 工具调用、RAG 向量知识库 |
-| ⚡ **FastAPI** | 高性能异步 Python 后端，自动生成 API 文档，对接 AI 模型服务 |
-| 📈 **缠论深化** | 线段模块、中枢识别、次级别区间套、真实结构止损（在笔的基础上推进） |
-| 🔗 **跨端互联** | 电脑 FastAPI 服务 + 手机 PWA 通过 WebSocket 双向通信，传感器数据流式传输 |
-| 🧪 **量化策略** | 从单一底分型买卖，向多因子、多级别共振策略演进 |
+| Area | What I'm Building |
+|:---|:---|
+| 🤖 **AI Agent** | LLM-powered multi-turn agents with Function Calling, RAG vector knowledge bases, and market data tool integration |
+| ⚡ **FastAPI Services** | High-performance async Python backends with auto-generated OpenAPI docs, serving AI model inference |
+| 📈 **Chan Theory Deep Dive** | Segment (线段) modules, pivot (中枢) identification, sub-level interval nesting, structural stop-loss |
+| 🔗 **Cross-Device Sync** | PC FastAPI server + mobile PWA over WebSocket, sensor data streaming, remote device control |
+| 🧪 **Strategy Evolution** | Moving from single fractal signals to multi-factor, multi-timeframe resonance strategies |
+
+---
+
+## 🏆 Highlights
+
+- 🥇 **2022 National Mathematical Modeling Competition** — China (MATLAB)
+- 📊 **MathorCup University Mathematical Modeling Challenge** — Big Data track
+- 🧠 **BP Neural Network Prediction** — Self-built forecasting model
+- 📦 **64+ GitHub Repositories** — Frontend, Backend, Quant, AI, Blockchain, Mobile
+- 🎯 **17 Futures Contracts** — Real-time monitoring and alerting
+- 📱 **PC + Mobile Dual-Platform** — WebSocket synchronized trading dashboard
 
 ---
 
@@ -159,20 +169,19 @@
 
 ---
 
-## 📫 Contact
+## 📫 Get In Touch
 
 - 📧 **Email**: A18581897806@outlook.com
 - 🌐 **Blog**: [ggyking.top](https://ggyking.top)
-- 📱 **Phone**: 18581897806
-- 💬 **WeChat**: 同手机号
+- 💬 **WeChat**: 18581897806
 
 ---
 
 <div align="center">
 
-**「交易是认知的变现，代码是想法的延伸。」**
+**「Trading is the realization of cognition. Code is the extension of ideas.」**
 
-Thanks for stopping by! If you find something interesting, give it a ⭐
+Thanks for stopping by — feel free to reach out! ⭐
 
 <img src="https://profile-counter.glitch.me/Ggy-king/count.svg" />
 
