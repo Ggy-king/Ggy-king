@@ -9,7 +9,6 @@
 </p>
 
 <p>
-  <a href="https://ggyking.top"><img src="https://img.shields.io/badge/Blog-ggyking.top-1f6feb?style=flat-square&logo=firefox&logoColor=white"></a>
   <a href="mailto:A18581897806@outlook.com"><img src="https://img.shields.io/badge/Email-A18581897806%40outlook.com-red?style=flat-square&logo=gmail&logoColor=white"></a>
   <a href="https://github.com/Ggy-king"><img src="https://img.shields.io/badge/GitHub-Ggy--king-24292e?style=flat-square&logo=github&logoColor=white"></a>
   <img src="https://komarev.com/ghpvc/?username=Ggy-king&color=blue&style=flat-square&label=Profile+Views">
@@ -164,7 +163,7 @@ My flagship project — a **complete Chan Theory futures quantitative system** b
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ggy-king&theme=tokyo-night&hide_border=true&radius=8" />
+  <img src="https://github-contributions-api.jogruber.de/v4/Ggy-king?theme=tokyonight" height="200px" />
 </div>
 
 ---
@@ -172,7 +171,6 @@ My flagship project — a **complete Chan Theory futures quantitative system** b
 ## 📫 Get In Touch
 
 - 📧 **Email**: A18581897806@outlook.com
-- 🌐 **Blog**: [ggyking.top](https://ggyking.top)
 - 💬 **WeChat**: 18581897806
 
 ---
@@ -182,7 +180,5 @@ My flagship project — a **complete Chan Theory futures quantitative system** b
 **「Trading is the realization of cognition. Code is the extension of ideas.」**
 
 Thanks for stopping by — feel free to reach out! ⭐
-
-<img src="https://profile-counter.glitch.me/Ggy-king/count.svg" />
 
 </div>
