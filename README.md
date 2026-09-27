@@ -1,251 +1,120 @@
-<div>
-  <div>
-    😆❤️  <i><b>My Name Is Gao-Guang-Yuan</b></i><br>
-    🌍💪  <i>Occupation -- Full Stack Developer</i><br>
-    ✈️🏆  <i><b>Love -- Vue/vite/pinia/Js/Ts/H5C3/Nodejs/Express/mongodb/React/Weixin/webpack/vuex/npm/Apifox/git/husky/eslint/<br>
-                 &nbsp;&nbsp;&nbsp;&nbsp;ubuntu/prettier/crypto/Sass/Less/apifox/postman/Cesium/Docker/Python/Flutter</b></i><br>
-    ✏️🌳  <i>School -- HPU</i><br>
-    🉑🍉  <i>Phone -- 18581897806</i><br>
-    🍻🚢  <i><b>Email -- A18581897806@outlook.com</b></i><br>
-    🏆🌍  <i><b>Blog -- https://ggyking.top</b></i><br>
-    🌗💐  <i>Motto -- Those who like to create opportunities are a miracle in themselves</i></br>
-  </div>
-</div> 
-<hr>
-<div align = 'center'>
-  <img align = 'left' alt = 'Coding' width = '200' src = 'https://user-images.githubusercontent.com/102906132/163227643-6b63bf7a-f02c-4d03-86f1-ca524596b4d2.gif'>
-  <img height="137px" src="https://github-readme-stats.vercel.app/api?username=sun0225SUN&hide_title=true&hide_border=true&show_icons=trueline_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" /><img align = 'right' width = '194' height = '200' src = 'https://user-images.githubusercontent.com/102906132/163379190-a3c5b2d3-b1a7-4607-be9b-5bfb65a98dbc.gif'>  
-</div>
-
-
-<div align = 'center'> <img align = 'center' src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" /> <img align = 'center' src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3" /> <img align = 'center' src="https://img.shields.io/badge/-JavaScript-oringe?style=flat-square&logo=javascript" /> <img align = 'center' src = 'https://img.shields.io/badge/R-React-orange'> <img align = 'center' src = 'https://img.shields.io/badge/V-Vue-black'> </div>
- 
-<div align = 'center'><strong>物语</strong><br></div>
-<hr>
-<div align="center"> 
-  <img src="https://github-profile-trophy.vercel.app/?username=JimmyLv" /> 
-</div>
-
-## Used Skills
-<table align="center">
-  <tr>
-    <td align="center" width="96">
-        <a href="#Vue">
-            <img src="https://skillicons.dev/icons?i=vue" width="48" height="48" alt="Vue" />
-        </a>
-        <br>Vue
-    </td>
-      <td align="center" width="96">
-        <a href="#React">
-            <img src="https://skillicons.dev/icons?i=react" width="48" height="48" alt="React" />
-        </a>
-        <br>React
-    </td>
-      <td align="center" width="96">
-        <a href="#Mongodb">
-            <img src="https://skillicons.dev/icons?i=mongodb" width="48" height="48" alt="Mongodb" />
-        </a>
-        <br>Mongodb
-    </td>
-      <td align="center" width="96">
-        <a href="#NodeJS">
-            <img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" alt="NodeJS" />
-        </a>
-        <br>NodeJS
-    </td>
-      <td align="center" width="96">
-        <a href="#Firebase">
-            <img src="https://skillicons.dev/icons?i=bootstrap" width="48" height="48" alt="Firebase" />
-        </a>
-        <br>Bootstrap
-    </td>
-      <td align="center" width="96">
-        <a href="#Vite">
-            <img src="https://skillicons.dev/icons?i=vite" width="48" height="48" alt="Vite" />
-        </a>
-        <br>Vite
-    </td>
-     </td>
-      <td align="center" width="96">
-        <a href="#Pinia">
-            <img src="https://skillicons.dev/icons?i=pinia" width="48" height="48" alt="Pinia" />
-        </a>
-        <br>Pinia
-    </td>
-  </tr>
-  <tr>
-      <td align="center" width="96">
-      <a href="#html5">
-        <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML" />
-      </a>
-      <br>HTML5
-    </td>   
-    <td align="center" width="96">
-      <a href="#css3">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/CSS3_logo.svg/48px-CSS3_logo.svg.png" width="48" height="48" alt="Css3" />
-      </a>
-      <br>CSS3
-    </td>
-     <td align="center" width="96">
-      <a href="#Javascript">
-        <img src="https://skillicons.dev/icons?i=js" width="48" height="48" alt="Javascript" />
-      </a>
-      <br>Javascript
-    </td>
-     <td align="center" width="96">
-      <a href="#TypeScript">
-        <img src="https://skillicons.dev/icons?i=ts" width="48" height="48" alt="TypeScript" />
-      </a>
-      <br>TypeScript
-    </td>
-     <td align="center" width="96">
-      <a href="#Webpack">
-        <img src="https://skillicons.dev/icons?i=webpack" width="48" height="48" alt="Webpack" />
-      </a>
-      <br>Webpack
-    </td>
-     <td align="center" width="96">
-      <a href="#Express">
-        <img src="https://skillicons.dev/icons?i=express" width="48" height="48" alt="Express" />
-      </a>
-      <br>Express
-    </td>      
-    <td align="center" width="96">
-      <a href="#Ai">
-        <img src="https://skillicons.dev/icons?i=ai" width="48" height="48" alt="Ai" />
-      </a>
-      <br>Ai
-    </td>      
-  </tr>
-  
-  <tr>
-     <td align="center" width="96">
-      <a href="#Npm" >
-        <img src="https://skillicons.dev/icons?i=npm" width="48" height="48" alt="Npm" />
-      </a>
-      <br>Npm
-    </td>
-      <td align="center" width="96">
-      <a href="#Yarn">
-        <img src="https://skillicons.dev/icons?i=yarn" width="48" height="48" alt="Yarn" />
-      </a>
-      <br>Yarn
-    </td>
-      <td align="center" width="96">
-      <a href="#weixin">
-        <img src="https://skillicons.dev/icons?i=gherkin" width="48" height="48" alt="weixin小程序" />
-      </a>
-      <br>weixin小程序
-    </td>
-     <td align="center" width="96">
-      <a href="#Redux">
-        <img src="https://skillicons.dev/icons?i=redux" width="48" height="48" alt="Redux" />
-      </a>
-      <br>Redux
-    </td>
-     <td align="center" width="96">
-        <a href="#Sass">
-            <img src="https://skillicons.dev/icons?i=sass" width="48" height="48"
-                alt="Sass" />
-        </a>
-        <br>Sass
-    </td>
-    <td align="center" width="96">
-        <a href="#Less">
-            <img src="https://skillicons.dev/icons?i=less" width="48"
-                height="48" alt="Less" />
-        </a>
-        <br>Less
-    </td>   
-    <td align="center" width="96">
-        <a href="#Python">
-            <img src="https://skillicons.dev/icons?i=python" width="48"
-                height="48" alt="Python" />
-        </a>
-        <br>Python
-    </td>   
-  </tr>
-   <tr>
-     <td align="center"  width="96">
-      <a href="#VSCode">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" width="48" height="48" alt="VS Code" />
-      </a>
-      <br>VS Code
-    </td>
-      <td align="center" width="96">
-      <a href="#postman" >
-        <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="48" height="48" alt="Postman" />
-      </a>
-      <br>Postman
-     </td>
-      <td align="center" width="96">
-      <a href="#Docker" >
-        <img src="https://skillicons.dev/icons?i=docker" width="48" height="48" alt="Docker" />
-      </a>
-      <br>Docker
-    </td>
-      <td align="center" width="96">
-      <a href="#ubuntu" >
-        <img src="https://skillicons.dev/icons?i=pycharm" width="48" height="48" alt="ubuntu" />
-      </a>
-      <br>Pycharm
-    </td>
-     <td align="center" width="96">
-      <a href="#Babel">
-        <img src="https://skillicons.dev/icons?i=babel" width="48" height="48" alt="Babel" />
-      </a>
-      <br>Babel
-    </td>
-      <td align="center" width="96">
-      <a href="#git" >
-        <img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" />
-      </a>
-      <br>Git
-    </td>
-    <td align="center" width="96">
-      <a href="#vercel" >
-        <img src="https://skillicons.dev/icons?i=vercel" width="48" height="48" alt="Vercel" />
-      </a>
-      <br>Vercel
-    </td>
-      
-    
-  </tr>
-</table>
-<br>
-<strong>Other</strong>
-<hr />
-
-
-
-<br/>
 <div align="center">
-  <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Ggy-King&theme=2077" height="180em" alt="Most Commits Languages"/>
-  <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Ggy-King&theme=2077" height="180em" alt="Most Repo Languages"/>
-</div>
-<br/>
-<div align="center">
-  <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ggy-King&theme=2077" height="180em" alt="Commitments"/>
-</div>
 
-<br/>
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Hi%2C+I%27m+Gao+Guangyuan+%F0%9F%91%8B;Full+Stack+Developer;AI+Agent+%26+Quant+Explorer&font=Fira+Code&center=true&width=520&height=60&size=26&color=58A6FF&vCenter=true">
+</a>
 
-![115834477-dbab4500-a447-11eb-908a-139a6edaec5c](https://github.com/LahiruHarshana/LahiruHarshana/assets/124744833/d5f490aa-d12a-45eb-935a-535c05da9261)
-
-![git](https://user-images.githubusercontent.com/79472177/205426120-3426ca36-711a-4ad6-a064-5bcf708c84cf.jpg)
-
-<br/>
-<p align="center"> 
-  Visitors Count<br>
-  
-  <img src="https://profile-counter.glitch.me/ThiroshMadhusha/count.svg" />
+<p>
+  <i>向阳而生 · Those who like to create opportunities are a miracle in themselves</i>
 </p>
 
-
-<p align="center"> 
-  ```
-If You liked My Profile, You Can Star ⭐ the Repository): If You Want To Use This Template, You Can Fork This 和 Use It.
-  ```
+<p>
+  <a href="https://ggyking.top"><img src="https://img.shields.io/badge/Blog-ggyking.top-1f6feb?style=flat-square&logo=firefox&logoColor=white"></a>
+  <a href="mailto:A18581897806@outlook.com"><img src="https://img.shields.io/badge/Email-A18581897806%40outlook.com-red?style=flat-square&logo=gmail&logoColor=white"></a>
+  <a href="https://github.com/Ggy-king"><img src="https://img.shields.io/badge/GitHub-Ggy--king-24292e?style=flat-square&logo=github&logoColor=white"></a>
+  <img src="https://img.shields.io/badge/Focus-AI%20%7C%20Agent%20%7C%20Quant-8957e5?style=flat-square">
 </p>
-<br />
-<p align="right"><a href="#top"><img src="https://img.shields.io/static/v1?label&message=Go+to+Top&color=0b6ab3&style=flat&logo" alt="Go to Top" /></a></p>
+
+</div>
+
+---
+
+## 🧑‍💻 About Me
+
+- 🎓 **HPU** (河南理工大学) · Full Stack Developer
+- 💻 Frontend: **Vue / React / TypeScript** · Backend: **Node.js / Express / FastAPI**
+- 🤖 Currently deep into **AI Agents**, **LLM Applications**, and **Prompt Engineering**
+- 📊 Exploring **Quantitative Trading** — strategy backtesting with Python
+- 🔗 Passionate about **cross-device connectivity** and real-time synchronization
+- 🌱 Always building, always shipping — project-driven learner
+
+---
+
+## 🛠 Tech Stack
+
+<div align="center">
+
+**Frontend**
+
+![Vue](https://img.shields.io/badge/Vue-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+![Webpack](https://img.shields.io/badge/Webpack-8DD6F9?style=for-the-badge&logo=webpack&logoColor=black)
+![Pinia](https://img.shields.io/badge/Pinia-FFD859?style=for-the-badge&logo=pinia&logoColor=black)
+
+**Backend & Data**
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+
+**AI & Quant**
+
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![OpenAI](https://img.shields.io/badge/LLM-OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+
+**Tools**
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![WeChat](https://img.shields.io/badge/WeChat_Mini-07C160?style=for-the-badge&logo=wechat&logoColor=white)
+
+</div>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <img height="165px" src="https://github-readme-stats.vercel.app/api?username=Ggy-king&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
+  <img height="165px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ggy-king&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+</div>
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Ggy-king&theme=tokyonight&no-frame=true&row=1&column=7" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ggy-king&theme=tokyonight&hide_border=true" height="160px" />
+</div>
+
+---
+
+## 🔥 Currently Exploring
+
+| 方向 | 在做什么 |
+|------|---------|
+| 🤖 **AI Agent** | 基于 LLM 的多轮对话 Agent、工具调用（Function Calling）、RAG 知识库 |
+| ⚡ **FastAPI** | 高性能 Python 后端，异步接口 + 自动文档，对接 AI 模型服务 |
+| 📈 **量化交易** | Python 策略回测、数据清洗、因子挖掘，用代码跑交易思路 |
+| 🔗 **跨端互联** | 设备联动、实时同步，让电脑和手机能互相调用 |
+
+---
+
+## 📫 Contact
+
+- 📧 **Email**: A18581897806@outlook.com
+- 🌐 **Blog**: [ggyking.top](https://ggyking.top)
+- 📱 **Phone**: 18581897806
+
+---
+
+<div align="center">
+
+**Thanks for stopping by!** If you find something interesting, give it a ⭐
+
+<img src="https://profile-counter.glitch.me/Ggy-king/count.svg" />
+
+</div>
