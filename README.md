@@ -117,7 +117,7 @@ My flagship project — a **complete Chan Theory futures quantitative system** b
 | **Market Data** | TqSdk persistent connection, **17 futures contracts**, all timeframes from 30s to daily. |
 | **Real-Time Alerts** | FastAPI + WebSocket bidirectional sync across **4 pages** — PC overview / detail / backtest + mobile client. |
 | **Backtesting** | Standalone backtest engine. Fills at fractal confirmation bar close (no look-ahead bias). Equity curve + trade markers + per-trade breakdown. |
-| **Risk Management** | Simulated 100k account, **1% risk per trade** position sizing, drag-and-drop stop-loss calculator. |
+| **Risk Management** | Simulated 1000k account, **1% risk per trade** position sizing, drag-and-drop stop-loss calculator. |
 | **Charting** | `lightweight-charts` professional financial charts with multi-timeframe switching and Chan stroke overlay. |
 
 </div>
