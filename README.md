@@ -20,7 +20,7 @@
 
 ## 👤 About Me
 
-> **Futures Trader × Full Stack Engineer × AI Agent Builder**
+> **AI Agent Builder × Full Stack Engineer × Futures Trader**
 
 I'm a full-stack developer with years of hands-on experience in **futures trading** and deep expertise in **Chan Theory (缠论)** technical analysis. I build quantitative trading systems from scratch — from K-line merging and fractal recognition to real-time alerting and strategy backtesting. Recently I've been diving into **AI Agents** and **LLM applications**, exploring how language models can automate trading analysis and cross-device workflows.
 
